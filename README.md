@@ -12,5 +12,5 @@ The 42 Graphics Library need for the following projects:
 
 To add minilibx to your project, copy the following and paste it in iTerm/Terminal:
 ```
-git clone 
+git clone https://github.com/pasqualerossi/minilibx
 ```
