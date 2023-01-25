@@ -1,4 +1,4 @@
-# MiniLibx
+# Minilibx
 
 The 42 Graphics Library need for the following projects:
 
@@ -8,7 +8,7 @@ The 42 Graphics Library need for the following projects:
 - Cub3D (3D Game)
 - MiniRT (3D Raytracing)
 
-# Add MiniLibx To Your Project
+# Add Minilibx To Your Project
 
 To add minilibx to your project, copy the following and paste it in iTerm/Terminal:
 ```
